@@ -1,3 +1,5 @@
+-- Made by lua-kit/root_k1t on roblox
+
 local function addLeaderboard(player)
 	local board = Instance.new("Model", player)
 	board.Name = "leaderstats"
